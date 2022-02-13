@@ -1,4 +1,5 @@
-Lina Achaji, a PhD candidate @ Stellantis, and Inria.
+<b>Lina Achaji, a PhD candidate @ Stellantis, and Inria.</b>
+
 Working on behavior Prediction for autonomous cars using Artificial Intelligence.
 
 
